@@ -1,3 +1,11 @@
+</br>
+
+Hi ya! my name is Isabella. </br>
+I majored in Digital Marketing and MIS, but I'm still exploring various fields as I haven't found my true calling yet. </br>
+Finding the field in which I believe I can excel the most among my studies is my goal.
+
+</br>
+
 # **Careers**
 - 경남대학교 디지털마케팅학과 (前경영정보학과) | 2020.03 ~ 2024.02 (졸업)
 - Fairleigh Dickinson University 어학연수 | 2023.07 (수료)
