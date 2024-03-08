@@ -2,7 +2,8 @@
 
 🗣️ Languages
 Korean | Native</br>English | Intermediate</br>Japanese | Elementary</br>French | Elementary
-
+</br>
+</br>
 
 <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=FFFFFF"/> <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/> <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
 </br> <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img alt="git" src ="https://img.shields.io/badge/git-181717.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/> <img alt="github" src ="https://img.shields.io/badge/github-F05032.svg?&style=for-the-badge&logo=github&logoColor=FFFFFF"/>
