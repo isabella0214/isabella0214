@@ -1,24 +1,18 @@
 </br>
-
-Hi ya! my name is Isabella. </br>
-I majored in Digital Marketing and MIS, but I'm still exploring various fields as I haven't found my true calling yet. </br>
-Finding the field in which I believe I can excel the most among my studies is my goal.
-
 </br>
 
 # **Careers**
 - 경남대학교 디지털마케팅학과 (前경영정보학과) | 2020.03 ~ 2024.02 (졸업)
 - Fairleigh Dickinson University 어학연수 | 2023.07 (수료)
-- USG 코딩 오픈메타캠퍼스 플랫폼 비즈니스 1기 | 2023.09 ~ 2024.03 (수료 예정)
+- USG 코딩 오픈메타캠퍼스 플랫폼 비즈니스 1기 | 2023.09 ~ 2024.03 (수료)
   
 # **Objectives**
-> still studying and trying to find my calling
-- Frontend developer
+- frontend developer
 - UI/UX desinger
-- Big data analyst
+- big data analyst
 
 <!-- # **Certificate**
-- ERP 회계 2급
+- ERP 회계정보관리사 2급
 - 컴퓨터활용능력 2급 -->
 
 # 🗣️ **Languages**
