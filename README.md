@@ -11,10 +11,6 @@
 - UI/UX desinger
 - big data analyst
 
-<!-- # **Certificate**
-- ERP 회계정보관리사 2급
-- 컴퓨터활용능력 2급 -->
-
 # 🗣️ **Languages**
 - Korean | Native
 - English | Intermediate
