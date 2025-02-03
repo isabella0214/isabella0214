@@ -12,17 +12,8 @@
 - French | Elementary
   
 #
-- Front </br>
-  JavaScript / HTML / CSS / React
-  
-- Back </br>
-  Python / PHP
-  
-- DB </br>
-  PL/SQL / MySQL
-  
-- IDE </br>
-  PL/SQL Developer / Oracle Forms / MySQL Workbench / Google Colab / VS Code
+- JavaScript / HTML / CSS / React / Python / PHP / PL/SQL / MySQL
+- PL/SQL Developer / Oracle Forms / MySQL Workbench / Google Colab / VS Code
 
 #
 </br>
