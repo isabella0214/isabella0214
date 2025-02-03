@@ -24,7 +24,8 @@
 - IDE </br>
   PL/SQL Developer / Oracle Forms / MySQL Workbench / Google Colab / VS Code
 
-
+#
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabella0214&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella0214)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabella0214&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella0214)](https://github.com/anuraghazra/github-readme-stats)
