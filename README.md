@@ -6,14 +6,14 @@
 - USG Coding Open Meta Campus – Platform Business, 1st Cohort | Sep 2023 - Mar 2024
   
 # 
-- Korean | Native
-- English | Intermediate
-- Japanese | Elementary
-- French | Elementary
+- Korean : Native
+- English : Intermediate
+- Japanese : Elementary
+- French : Elementary
   
 #
-- JavaScript / HTML / CSS / React / Python / PHP / PL/SQL / MySQL
-- PL/SQL Developer / Oracle Forms / MySQL Workbench / Google Colab / VS Code
+- Lang : JavaScript / HTML / CSS / React / Python / PHP / PL/SQL / MySQL
+- IDE : PL/SQL Developer / Oracle Forms / MySQL Workbench / Google Colab / VS Code
 
 #
 </br>
