@@ -2,13 +2,13 @@
 - Kyungnam University, Changwon, South Korea </br>
   B.A. in Management Information Systems | Mar 2020 - Feb 2024
 - Fairleigh Dickinson University, Teaneck, NJ, USA </br>
-  Intensive English Language Program | Jul 2023
+  Intensive English Language Program | Jun - Jul 2023
 - USG Coding Open Meta Campus – Platform Business, 1st Cohort | Sep 2023 - Mar 2024
   
 # 
 - Korean : Native
-- English : Intermediate
-- Japanese : Elementary
+- English : Upper Intermediate
+- Japanese : Pre Intermediate
 - French : Elementary
   
 #
